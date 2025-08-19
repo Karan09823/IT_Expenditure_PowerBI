@@ -43,25 +43,25 @@ Standardized column names and ensured data types were correctly set (e.g., dates
 
 KPI Creation
 To evaluate IT expenditure performance, several key performance indicators (KPIs) were created in Power BI using DAX formulas:
-## Total Actual Expenditure
+#### Total Actual Expenditure
 Total Actual = SUM(Data[Actual])
 
-## Total Forecast Expenditure
+#### Total Forecast Expenditure
 Total Forecast = SUM(Data[Forecast])
 
-## Total Planned Expenditure
+#### Total Planned Expenditure
 Total Plan = SUM(Data[Plan])
 
-## Variance (Actual vs. Forecast)
+#### Variance (Actual vs. Forecast)
 Variance (Actual vs. Forecast) = [Total Actual] - [Total Forecast]
 
-## Variance (Actual vs. Plan)
+#### Variance (Actual vs. Plan)
 Variance (Actual vs. Plan) = [Total Actual] - [Total Plan]
 
-## Variance % (Actual vs. Forecast)
+#### Variance % (Actual vs. Forecast)
 Variance % (Actual vs. Forecast) = DIVIDE([Variance (Actual vs. Forecast)], [Total Forecast])
 
-## Variance % (Actual vs. Plan)
+#### Variance % (Actual vs. Plan)
 Variance % (Actual vs. Plan) = DIVIDE([Variance (Actual vs. Plan)], [Total Plan])
 
 # 5. Insights
