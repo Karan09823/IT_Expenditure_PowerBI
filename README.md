@@ -69,12 +69,16 @@ The IT expenditure analysis revealed the following key findings:
 
 💰 Total Expenditure Overview
 Actual Expenditure: 555.73M
+
 Forecasted Expenditure: 890.54M
+
 Planned Expenditure: 900.40M
 
 📊 Budget Performance
 Variance % (Actual vs Forecast): -38%
+
 Variance % (Actual vs Plan): -38%
+
 This indicates that actual spending was significantly lower than both forecasted and planned budgets.
 
 🖥 IT Area Analysis
