@@ -68,6 +68,7 @@ Variance % (Actual vs. Plan) = DIVIDE([Variance (Actual vs. Plan)], [Total Plan]
 The IT expenditure analysis revealed the following key findings:
 
 💰 Total Expenditure Overview
+
 Actual Expenditure: 555.73M
 
 Forecasted Expenditure: 890.54M
@@ -75,6 +76,7 @@ Forecasted Expenditure: 890.54M
 Planned Expenditure: 900.40M
 
 📊 Budget Performance
+
 Variance % (Actual vs Forecast): -38%
 
 Variance % (Actual vs Plan): -38%
@@ -82,9 +84,11 @@ Variance % (Actual vs Plan): -38%
 This indicates that actual spending was significantly lower than both forecasted and planned budgets.
 
 🖥 IT Area Analysis
+
 Infrastructure emerged as the area with the highest expenditure, suggesting major investments in core IT assets and systems.
 
 👷 Cost Element Analysis
+
 Labor was identified as the highest cost element group, highlighting workforce-related expenses as a primary cost driver.
 
 # 6. Reference
