@@ -66,6 +66,7 @@ Variance % (Actual vs. Plan) = DIVIDE([Variance (Actual vs. Plan)], [Total Plan]
 
 # 5. Insights
 The IT expenditure analysis revealed the following key findings:
+
 💰 Total Expenditure Overview
 Actual Expenditure: 555.73M
 Forecasted Expenditure: 890.54M
